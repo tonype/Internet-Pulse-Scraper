@@ -1,0 +1,5 @@
+Simple Python script that scrapes all the latencies on internetpulse.com.
+
+You can filter them based on the different types of latencies (normal, warning, critical), as well as view all of them at once.
+
+Ideas for features to add include showing network availability and packet loss. Also, choose whether to view latencies over the last hour, four hours, or twenty-four hours.
